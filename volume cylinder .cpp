@@ -5,7 +5,7 @@ Date: January 25
 */
 
 #include<iostream>
-//stdio.h is a header file used for input.output purpose.
+//iostream is a header file used for input.output purpose.
 using namespace std;
 #define PI 3.142
 
